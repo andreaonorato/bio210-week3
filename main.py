@@ -8,5 +8,5 @@ def fibonacci(n):
     return fib_sequence
 
 # Print the first 10 Fibonacci numbers
-first_10_fibonacci = fibonacci(10)
-print(first_10_fibonacci)
+first_100_fibonacci = fibonacci(100)
+print(first_100_fibonacci)
